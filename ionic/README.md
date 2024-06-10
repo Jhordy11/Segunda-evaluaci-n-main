@@ -1,4 +1,4 @@
-![image](https://github.com/Jhordy11/Segunda-evaluaci-n-main/assets/111138912/e8b60448-aade-4de5-b23f-ade3be6a2552)## Instalacion de dependencias compatibles
+## Instalacion de dependencias compatibles
 ```
   npm i --legacy-peer-deps
 ```
